@@ -1,6 +1,6 @@
-# tourism
+# tourism 移动端网页制作练习 去哪儿了网
 
-> A Vue.js project
+> 这是一个 vue的移动端项目
 
 ## Build Setup
 
